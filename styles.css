@@ -9,8 +9,29 @@ body {
 ul,
 ol {
     text-align: left;
+    border: 3px solid;
+    border-radius: 25px;
+    border-color: #d9ad9b;
+    list-style: none;
+    padding: 6px;
+    margin: 10px;
+
 }
 
 h1 {
     color: #821131;
+}
+
+p {
+    padding: 6px;
+    margin: 0px 50px;
+
+}
+
+b {
+    color: #821131;
+}
+
+#guanciale {
+    border: 0px;
 }
